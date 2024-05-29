@@ -12,7 +12,7 @@ sections:
       text: |        
         Thing Elvar has to figure out sometime
       image:
-        filename: molecular_movie_cropped-low_res.gif
+        filename: QMMMindex.png
 # News Block 
 #  - block: collection
 #    content:
