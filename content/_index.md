@@ -10,7 +10,7 @@ sections:
       title: |
         QM/MM and Polarizable Force fields 
       text: |        
-        Thing Elvar has to figure out
+        Thing Elvar has to figure out sometime
       image:
         filename: molecular_movie_cropped-low_res.gif
 # News Block 
